@@ -4,7 +4,8 @@
     "namespace": "android_app",
     "package_name": "io.github.alefonsecabb.twa",
     "sha256_cert_fingerprints": [
-      "6D:44:2E:9A:FC:38:E0:E8:4F:C4:2A:5B:B8:5A:13:50:44:9D:63:AC:C7:07:CC:64:FE:D8:B1:57:63:F0:3E:78"
+      "6D:44:2E:9A:FC:38:E0:E8:4F:C4:2A:5B:B8:5A:13:50:44:9D:63:AC:C7:07:CC:64:FE:D8:B1:57:63:F0:3E:78",
+      "E1:35:EC:A9:7E:5A:7A:D0:76:A7:3D:B2:6E:F9:81:BF:2C:3E:5E:5F:29:30:58:9E:AF:43:27:54:F7:FE:66:BD"
     ]
   }
 }]
